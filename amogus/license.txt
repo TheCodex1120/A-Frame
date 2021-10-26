@@ -1,0 +1,11 @@
+Model Information:
+* title:	amogus
+* source:	https://sketchfab.com/3d-models/amogus-4ee582304e884d2fb96e60d1ea70af41
+* author:	Finchy (https://sketchfab.com/FinchyMcFinch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "amogus" (https://sketchfab.com/3d-models/amogus-4ee582304e884d2fb96e60d1ea70af41) by Finchy (https://sketchfab.com/FinchyMcFinch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
